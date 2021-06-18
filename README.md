@@ -26,7 +26,8 @@ Hi, I'm [Meet](), I'm a passionate developer who loves building **Web** & **Mobi
 <img align="left" alt="medium" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
 <img align="left" alt="medium" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img align="left" alt="medium" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>  
+<img align="left" alt="medium" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+
 ### **My GitHub Stats**
 ---
 
