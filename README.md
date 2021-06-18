@@ -4,6 +4,8 @@ I'm a passionate developer who loves building **Web & Mobile** apps & who's look
 
 ### **Languages & Tools**
 
+![1](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg)
+
 Web | Mobile
 ------------ | -------------
 <img alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> | <img alt="medium" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
