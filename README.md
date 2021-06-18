@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm [Meet](), I'm a passionate developer who loves building **Web** & **Mobile** apps.
+I'm a passionate developer who loves building **Web** & **Mobile** apps and looking for an opportunity to work as an Android Developer
 
 ### **Languages & Tools**
 
