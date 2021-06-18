@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a passionate developer who loves building **Frontend Web & Mobile** apps & I am looking for an opportunity to work as an Android Developer
+I'm a passionate developer who loves building **Web & Mobile** apps & who's looking for an opportunity to work as an Android Developer
 
 ### **Languages & Tools**
 
