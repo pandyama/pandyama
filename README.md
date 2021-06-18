@@ -4,7 +4,7 @@ I'm a passionate developer who loves building **Web & Mobile** apps & who's look
 
 ### **Languages & Tools**
 
-![1](https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg)
+![1]<img alt="medium" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"/>
 
 Web | Mobile
 ------------ | -------------
