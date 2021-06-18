@@ -21,7 +21,7 @@ Hi, I'm [Meet](), I'm a passionate developer who loves building **Web** & **Mobi
 
 Web | Mobile
 ------------ | -------------
-<img align="left" alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> | <img align="left" alt="medium" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> | <img alt="medium" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white" /> | `https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white`
 <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /> | `https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white`
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> | `https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white`
