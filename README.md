@@ -17,4 +17,4 @@ I am also looking for an opportunity to work as a Mobile Developer.
 ---
 ### **My GitHub Stats**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pandyama&show_icons=true&theme=gotham" alt="pandyama" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pandyama&show_icons=true&theme=gotham"/>
