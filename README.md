@@ -1,7 +1,6 @@
 ## Hi there 👋 its Meet
 
-I'm a passionate developer who loves building **Web & Mobile** apps.  
-I am also looking for an opportunity to work as a Mobile Developer.
+I'm a passionate developer who loves building **Web & Mobile** apps
 
 ---
 ### **Languages & Tools**
