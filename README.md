@@ -1,5 +1,4 @@
-## Hi there 👋 it's
-![1](https://github.com/pandyama/pandyama/blob/main/profile.png)
+## Hi there 👋 it's MEET
 
 **I'm a passionate developer who loves building **Web & Mobile** apps**
 
