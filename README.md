@@ -17,6 +17,10 @@
 <img alt="medium" height="65px" width="65px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
 
 ---
+
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{pandyama}/count.svg)
+
 ### **My GitHub Stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pandyama&show_icons=true&theme=gotham"/>
