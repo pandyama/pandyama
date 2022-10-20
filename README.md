@@ -19,14 +19,18 @@
 
 ### **Other stuff that I know & like to work with**
 
-<img alt="medium" height="55px" width="55px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"/> 
+<img alt="medium" height="55px" width="55px" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"/>
 ----
+
 <img alt="medium" height="65px" width="65px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg"/><img alt="medium" height="65px" width="65px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/><img alt="medium" height="65px" width="65px" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg"/>
 ----
+
 <img alt="medium" height="75px" width="75px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"/> <img alt="medium" height="75px" width="75px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg"/> 
 ----
+
 <img alt="medium" height="60px" width="60px" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg"/>  <img alt="medium" height="50px" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg"/><img alt="medium" height="65px" width="65px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg"/><img alt="medium" height="65px" width="65px" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
 ----
+
 <img alt="medium" height="65px" width="65px" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
 
 ---
