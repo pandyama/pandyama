@@ -6,7 +6,7 @@
 
 - 📫 How to reach me : **pandyama2@gmail.com**
 
-- ⚡ Fun fact : **I have been to 5 high schools in 2 countries**
+- ⚡ Fun fact : **I went to 5 high schools in 2 countries**
 
 ---
 
