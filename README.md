@@ -1,12 +1,16 @@
-## Hi there 👋 it's MEET
+Hi 👋 My name is Meet Pandya
+============================
 
-**I'm a passionate developer who loves building **Web & Mobile** apps**
+Fullstack Developer
+-------------------
 
-- 👯 I’m looking to collaborate on **Mobile Apps**
+* 🌍  I'm based in Calgary, AB, Canada
+* 🖥️  See my portfolio at [pandyama](http://pandyama.github.io)
+* ✉️  You can contact me at [pandyama2@gmail.com](mailto:pandyama2@gmail.com)
+* 🧠  I'm learning React Native
+* 🤝  I'm open to collaborating on mobile apps, fullstack apps
 
-- 📫 How to reach me : **pandyama2@gmail.com**
-
-- ⚡ Fun fact : **I went to 5 high schools in 2 countries**
+⚡ Fun fact : **I went to 5 high schools in 2 countries**
 
 ---
 
