@@ -10,7 +10,7 @@ Fullstack Developer
 * ✉️   You can contact me at [pandyama2@gmail.com](mailto:pandyama2@gmail.com)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on mobile apps, fullstack apps
-⚡ Fun fact : **I went to 5 high schools in 2 countries**
+* ⚡ Fun fact : **I went to 5 high schools in 2 countries**
 
 ---
 
