@@ -12,6 +12,12 @@ Fullstack Developer
 * 🤝  I'm open to collaborating on mobile apps, fullstack apps
 * ⚡ Fun fact : **I went to 5 high schools in 2 countries**
 
+Push new local git repo to remote
+---------------------------------
+- git remote add origin https://github.com/pandyama/parleyou.git
+- git branch -M main
+- git push -u origin main
+
 ---
 
 ### **What I do at work everyday**
