@@ -41,8 +41,8 @@ Push new local git repo to remote
 
 <div align="center">
 
-   ![](https://github-readme-stats.vercel.app/api?username=ParthJohri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=ParthJohri&theme=tokyonight&hide_border=false)<br/>
+   ![](https://github-readme-stats.vercel.app/api?username=pandyama&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=pandyama&theme=tokyonight&hide_border=false)<br/>
 
   </div>
 
