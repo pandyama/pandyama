@@ -40,15 +40,9 @@ Push new local git repo to remote
 ### **My GitHub Stats**
 
 <div align="center">
-
    ![](https://github-readme-stats.vercel.app/api?username=pandyama&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
    ![](https://github-readme-streak-stats.herokuapp.com/?user=pandyama&theme=tokyonight&hide_border=false)<br/>
-
-  </div>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pandyama&show_icons=true&theme=gotham"/>
-  
-<a href="http://www.github.com/pandyama"><img src="https://activity-graph.herokuapp.com/graph?username=pandyama&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+</div>
 
 <a href="https://github.com/pandyama" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pandyama&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
