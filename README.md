@@ -5,11 +5,9 @@ Fullstack Developer
 -------------------
 
 * 🎓  I have a **Bachelor's in Computer Science** & **Master's in Software Engineering**
-* 🌍  I'm based in Calgary, AB, Canada
 * 🖥️  See my portfolio at [meetpandya.ca](http://www.meetpandya.ca)
-* ✉️   You can contact me at [pandyama2@gmail.com](mailto:pandyama2@gmail.com)
 * 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on mobile apps, fullstack apps
+* 🤝  I'm open to collaborating on mobile & fullstack apps
 * ⚡ Fun fact : **I went to 5 high schools in 2 countries**
 
 Push new local git repo to remote
