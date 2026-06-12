@@ -8,7 +8,6 @@ Fullstack Developer
 * 🖥️  See my portfolio at [meetpandya.ca](http://www.meetpandya.ca)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on mobile & fullstack apps
-* ⚡ Fun fact : **I went to 5 high schools in 2 countries**
 
 Push new local git repo to remote
 ---------------------------------
